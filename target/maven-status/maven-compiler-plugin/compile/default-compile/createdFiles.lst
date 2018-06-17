@@ -1,0 +1,6 @@
+mrkprototypes/kprototypes/KprototypesDriver.class
+mrkprototypes/kprototypes/DataTuple.class
+mrkprototypes/kprototypes/Prototypes.class
+mrkprototypes/kprototypes/KprototypesMapper.class
+mrkprototypes/kprototypes/TestReadEnv.class
+mrkprototypes/kprototypes/KprototypesReducer.class
