@@ -88,7 +88,6 @@ public class DataTuple implements Writable
 			notUsed.add(-1);
 	}
 	
-	//this method of calculating distance between two tuples is from 《Data Mining》, JiaWei Han, Jian Pei
 	public double metric(DataTuple point, double gamma)
 	{
 		double numeric_dist = 0.0, nominal_dist = 0.0;
