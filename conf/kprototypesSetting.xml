@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <configuration>
 	<property>
-		<name>fs.defaultFS</name>
-		<value>file:///</value>
+		<name>mapreduce.job.reduces</name>
+		<value>1</value>
 	</property>
 	<property>
-		<name>mapreduce.framework.name</name>
-		<value>local</value>
+		<name>notUsed</name>
+		<value>0</value>
 	</property>
 	<property>
 		<name>epsilon</name>
-		<value>1000000.0</value>
+		<value>1.0</value>
 	</property>
 	<property>
 		<name>gamma</name>
@@ -18,6 +18,6 @@
 	</property>
 	<property>
 		<name>nominalIndex</name>
-		<value>0,1</value> <!-- start from 0 -->
+		<value>1</value> <!-- start from 0 -->
 	</property>
 </configuration>
